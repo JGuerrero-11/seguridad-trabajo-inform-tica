@@ -33,7 +33,7 @@ La guía de la Junta de Andalucía *Prevención de riesgos laborales en oficinas
 - Trastornos musculoesqueléticos por posturas inadecuadas y movimientos repetitivos.
 - Riesgos psicosociales relacionados con la organización y el contenido del trabajo.
 
-![Puesto informático y riesgos laborales](./img/01-puesto-informatico.png)
+![Puesto informático y riesgos laborales](./01-puesto-informatico.png)
 
 ## 2. Riesgos generales y eléctricos
 
@@ -65,7 +65,7 @@ Los ordenadores, monitores, impresoras, regletas, cargadores y fuentes de alimen
 > [!WARNING]
 > **La toma de tierra y el aislamiento son medidas de protección, no una autorización para tocar partes con tensión.** No realices pruebas caseras con electricidad ni experimentos con el cuerpo humano.
 
-![Prevención de riesgos eléctricos](./img/02-seguridad-electrica.png)
+![Prevención de riesgos eléctricos](./02-seguridad-electrica.png)
 
 ## 3. Riesgos ergonómicos y ambientales
 
@@ -115,7 +115,7 @@ Para reducir la fatiga visual:
 
 Cuando se utiliza un portátil durante periodos prolongados, su pantalla y teclado integrados pueden obligar a adoptar una postura incómoda. Es recomendable colocarlo sobre un soporte y utilizar teclado y ratón externos.
 
-![Ergonomía del puesto informático](./img/03-ergonomia-puesto.png)
+![Ergonomía del puesto informático](./03-ergonomia-puesto.png)
 
 ## 5. Riesgos psicosociales
 
@@ -144,7 +144,7 @@ Algunas acciones sencillas son:
 - Evitar giros repetidos del cuello y mantener la espalda apoyada.
 - Ajustar de nuevo silla, pantalla y periféricos si aparece incomodidad.
 
-![Pausas y hábitos posturales](./img/04-ejercicios-pausa.png)
+![Pausas y hábitos posturales](./04-ejercicios-pausa.png)
 
 <details>
 <summary>Ver una breve rutina de movilidad suave</summary>
